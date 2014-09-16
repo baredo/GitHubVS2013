@@ -9,7 +9,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	int a = 5;
+	int a = 7;
 	cout << a;
 	char b;
 	cin.get(b);
