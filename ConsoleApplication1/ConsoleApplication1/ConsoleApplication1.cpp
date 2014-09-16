@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp: define el punto de entrada de la aplicación de consola.
+// ConsoleApplication1.cpp: define el punto de entrada de la aplicaciÃ³n de consola.
 //
 
 #include "stdafx.h"
@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	int a = 1;
+	int a = 2;
 	return 0;
 }
 
